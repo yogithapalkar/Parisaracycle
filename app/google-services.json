@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534858157777",
+    "project_id": "parisaracycle-6c5ce",
+    "storage_bucket": "parisaracycle-6c5ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534858157777:android:136137fa7e7902b97c7ff0",
+        "android_client_info": {
+          "package_name": "com.yogitha.parisaracycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5VrumVI4SEdE_1YYo16STTw_e4Vm2Yps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
